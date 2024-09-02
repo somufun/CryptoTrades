@@ -7,7 +7,7 @@ Here is the view from Trading View - or the set up should look like below once y
 https://www.tradingview.com/script/LvjqmpHS-Crypto-Trades/
 
 # Introduction:
-Please use the below script with caution - what worked in the past is not a gurantee to work in the future. Use it at your own risk. The below script works best in the weekly chart. 
+Please use the below script with caution - what worked in the past is not a gurantee to work in the future. Use it at your own risk. The below script works best in the weekly chart. And the idea is not to find the perfect top and to pick the perfect bottom. The idea is to find the right spot to enter and a sweet spot to exit. 
 
 # Setup:
 1. You'll need the below as a pre-requisite:

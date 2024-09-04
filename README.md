@@ -1,4 +1,4 @@
-# CryptoTrades
+# CryptoTrades 💰
 Here is the view from Trading View - or the set up should look like below once you've it all done. 
 
 ![Screenshot 2024-09-02 at 6 56 32 PM](https://github.com/user-attachments/assets/3df2e741-ccb5-4bd5-8155-538e2fe7d5d2)
@@ -6,11 +6,14 @@ Here is the view from Trading View - or the set up should look like below once y
 
 https://www.tradingview.com/script/LvjqmpHS-Crypto-Trades/
 
-# Introduction:
+# Introduction: 
 Please use the below script with caution - what worked in the past is not a gurantee to work in the future. Use it at your own risk. The below script works best in the weekly chart. And the idea is not to find the perfect top and to pick the perfect bottom. The idea is to find the right spot to enter and a sweet spot to exit. 
 
 # Setup:
 1. You'll need the below as a pre-requisite:
+2. A free trading view account
+3. Pinescript - attached in another file
+4. And some common sense 🤣
    
 # A free accout will suffice:
 1. Create a trading view account using the link - https://www.tradingview.com/pricing/?share_your_love=samjanecrypto
@@ -39,5 +42,5 @@ Please use the below script with caution - what worked in the past is not a gura
 3. Give it a name and save it.
 4. VOILA - you are done - you're all set and from here on follow the indicator when it says Green arrow - buy and when it comes up with Red arrow - Sell.
 
-# If you want to buy me a coffee to say thank you - you are most welcome!
+# If you want to buy me a coffee to say thank you - you are most welcome! ☕
 https://buy.stripe.com/bIY5nF3cxeitbIcdQQ

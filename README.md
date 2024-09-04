@@ -37,4 +37,7 @@ Please use the below script with caution - what worked in the past is not a gura
 
 2. Copy the content of "Pinescript" file into that editor.
 3. Give it a name and save it.
-4. VOILA - you are done - you're all set and from here on follow the indicator when it says Green arrow - buy and when it comes up with Red arrow - Sell. 
+4. VOILA - you are done - you're all set and from here on follow the indicator when it says Green arrow - buy and when it comes up with Red arrow - Sell.
+
+# If you want to buy me a coffee to say thank you - you are most welcome!
+https://dashboard.stripe.com/products/prod_QlDSTOuhjCbONN 
